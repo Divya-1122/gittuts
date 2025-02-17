@@ -1,2 +1,6 @@
 hii nandu
+<<<<<<< HEAD
+hello madam
+=======
 hi dev-dev
+>>>>>>> origin/main
